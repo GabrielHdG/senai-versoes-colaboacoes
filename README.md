@@ -11,3 +11,7 @@ Laura: é uma boa ferramenta para auxiliar na organização e no desenvolvimento
 # senai-versoes-colacoacoes
 Qual a importancia de trabalhar com o github?
 Wagner Ornelas: Uma otima ferramenta para segurança, seus trabalho em um só local otimo para desenvolver seus projeto 
+
+# senai-versoes-colacoacoes
+Qual a importancia de trabalhar com o github?
+Natanael: Uma ferramenta que facilita o acesso compartilhado entre os usuários para o armazenamento e gerenciamento de arquivos.
